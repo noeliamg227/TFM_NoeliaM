@@ -17,6 +17,7 @@ The analyses include feature selection, model development, cross-validation, per
 Detailed methodological information is provided in the accompanying manuscript.
 
 ## Repository structure
+```text
 Project/
 │
 ├── code/
@@ -31,7 +32,7 @@ Project/
 ├── results/
 │
 └── README.md
-
+```
 `code/`
 
 Contains the Jupyter notebooks used to perform the analyses.
