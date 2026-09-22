@@ -71,13 +71,13 @@ pip install numpy pandas scipy scikit-learn matplotlib shap
 
 ## Clone the repository:
 
-git clone <repository-url>
+git clone <[repository-url](https://github.com/noeliamg227/TFM_NoeliaM.git)>
 
 cd Project
 
 The notebooks use relative paths to access the data and results directories. Therefore, the repository structure should be preserved.
 
-Open the desired notebook from the code/ directory using Jupyter Notebook or JupyterLab:
+Open the desired notebook from the code/ directory using Jupyter Notebook:
 
 jupyter notebook
 
