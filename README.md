@@ -8,10 +8,10 @@ The study included 178 patients with invasive breast carcinoma of no special typ
 
 Separate binary classification models were developed for four outcomes:
 
-Breast cancer recurrence: recurrence vs. non-recurrence
-Tumor diameter: ≤20 mm vs. >20 mm
-Age at diagnosis: ≤60 years vs. >60 years
-Molecular subtype: luminal vs. non-luminal
+- Breast cancer recurrence: recurrence vs. non-recurrence
+- Tumor diameter: ≤20 mm vs. >20 mm
+- Age at diagnosis: ≤60 years vs. >60 years
+- Molecular subtype: luminal vs. non-luminal
 
 The analyses include feature selection, model development, cross-validation, performance evaluation, and feature interpretation.
 Detailed methodological information is provided in the accompanying manuscript.
@@ -37,10 +37,10 @@ Project/
 
 Contains the Jupyter notebooks used to perform the analyses.
 
-Recurrence.ipynb: analysis according to recurrence.
-Tumor_Diameter.ipynb: analysis focused on tumor diameter.
-Age_at_diagnosis.ipynb: analysis according to age at diagnosis.
-Molecular_Subtype.ipynb: analysis according to molecular subtype.
+- Recurrence.ipynb: analysis according to recurrence.
+- Tumor_Diameter.ipynb: analysis focused on tumor diameter.
+- Age_at_diagnosis.ipynb: analysis according to age at diagnosis.
+- Molecular_Subtype.ipynb: analysis according to molecular subtype.
 
 `data/`
 
@@ -57,12 +57,12 @@ The analyses were developed using Python 3.11.4
 
 Main Python packages include:
 
-numpy
-pandas
-scipy
-scikit-learn
-matplotlib
-shap
+- numpy
+- pandas
+- scipy
+- scikit-learn
+- matplotlib
+- shap
 
 The required packages can be installed using:
 
@@ -72,6 +72,7 @@ pip install numpy pandas scipy scikit-learn matplotlib shap
 ## Clone the repository:
 
 git clone <repository-url>
+
 cd Project
 
 The notebooks use relative paths to access the data and results directories. Therefore, the repository structure should be preserved.
@@ -82,10 +83,10 @@ jupyter notebook
 
 Then select the corresponding notebook:
 
-Recurrence.ipynb
-Tumor_Diameter.ipynb
-Age_at_diagnosis.ipynb
-Molecular_Subtype.ipynb
+- Recurrence.ipynb
+- Tumor_Diameter.ipynb
+- Age_at_diagnosis.ipynb
+- Molecular_Subtype.ipynb
 
 
 ## Data availability
