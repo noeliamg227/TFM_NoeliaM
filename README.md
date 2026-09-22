@@ -75,9 +75,9 @@ git clone <[repository-url](https://github.com/noeliamg227/TFM_NoeliaM.git)>
 
 cd Project
 
-The notebooks use relative paths to access the data and results directories. Therefore, the repository structure should be preserved.
+The notebooks use relative paths to access the `data/` and `results/` directories. Therefore, the repository structure should be preserved.
 
-Open the desired notebook from the code/ directory using Jupyter Notebook:
+Open the desired notebook from the `code/` directory using Jupyter Notebook:
 
 jupyter notebook
 
