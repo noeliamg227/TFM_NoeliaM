@@ -1,4 +1,4 @@
-# Machine learning approaches to predict recurrencerisk and characterize breast cancer patients
+# Machine learning approaches to predict recurrence risk and characterize breast cancer patients
 
 This repository contains the code used to develop and evaluate machine learning models for the prediction of clinically relevant breast cancer outcomes and clinicopathological characteristics.
 
