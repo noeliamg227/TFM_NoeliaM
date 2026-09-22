@@ -31,7 +31,7 @@ Detailed methodological information is provided in the accompanying manuscript.
 │
 └── README.md
 ```
-The repository currently contains the code/ directory. The study dataset is not publicly available due to privacy and ethical considerations. The results/ directory represents the location where analysis outputs are generated when the notebooks are executed.
+The repository currently contains the `code/` directory. The study dataset is not publicly available due to privacy and ethical considerations. The `results/` directory represents the location where analysis outputs are generated when the notebooks are executed.
 
 ## Requirements
 
