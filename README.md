@@ -74,10 +74,3 @@ Then select the corresponding notebook:
 ## Data availability
 
 The data supporting the findings of this study are not publicly available due to privacy and ethical considerations regarding the research participants. However, the data may be obtained from the corresponding author (AF-C) upon reasonable request.
-
-
-## Citation
-
-If you use this code or methodology, please cite the corresponding publication:
-
-[Publication citation to be added once the manuscript is published.]
