@@ -1,10 +1,14 @@
-# Machine learning approaches to predict recurrence risk and characterize breast cancer patients
+# Machine Learning-Based Prediction of Breast Cancer Recurrence by Integrating Clinicopathological Factors and Immune Profiles of Primary Tumors and Non-Metastatic Axillary Lymph Nodes
 
-This repository contains the code used to develop and evaluate machine learning models for the prediction of clinically relevant breast cancer outcomes and clinicopathological characteristics.
+This repository contains the code developed for the study Machine Learning-Based Prediction of Breast Cancer Recurrence by Integrating Clinicopathological Factors and Immune Profiles of Primary Tumors and Non-Metastatic Axillary Lymph Nodes.
+
+The study investigates the potential of machine learning to predict breast cancer recurrence and selected clinicopathological characteristics by integrating conventional clinical and pathological variables with immune-cell profiles from primary tumors and non-metastatic axillary lymph nodes (ALN−).
+
+The main objective is to explore whether these combined features can improve predictive performance and identify variables that contribute to model predictions.
 
 ## Overview
 
-The study included 178 patients with invasive breast carcinoma of no special type, using integrated clinicopathological and immune profiling data obtained from the primary tumor and non-metastatic axillary lymph nodes (ALN−). Eleven immune cell populations, together with established clinical variables, were considered as predictive features.
+The study included 178 patients with invasive breast carcinoma of no special type, using integrated clinicopathological and immune profiling data obtained from the primary tumor and ALN−. Eleven immune cell populations, together with established clinical variables, were considered as predictive features.
 
 Separate binary classification models were developed for four outcomes:
 
